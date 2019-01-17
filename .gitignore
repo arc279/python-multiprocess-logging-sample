@@ -1,0 +1,6 @@
+.venv/*
+!.venv/requirements.txt
+*.pid
+*.log
+*.sock
+
